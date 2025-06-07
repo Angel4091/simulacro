@@ -37,5 +37,5 @@ int main(void){
         cout << "Error" << endl;
         break;
     }
-
+    return 0;
 }
